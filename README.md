@@ -7,16 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/PRANJAL20_27" target="_blank"><img src="https://img.shields.io/twitter/follow/pranjal-sharma-4a3ab7219?logo=twitter&style=for-the-badge" alt="pranjal sharma" /></a> </p>
 
-- 🌱 Having Good Command on **DAta Structures And Algorith**
+- 🌱 Having Good Command on **Data Structures And Algorithm**
 - 🌱 Having Good Command on **HTML, CSS, Bootstrap, Javascript**
+- 🌱 Having Good Command on **PHP**
 - 🌱 I’m currently learning **Node JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PRANJAL20_27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjal sharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranjal-sharma-4a3ab7219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-sharma-4a3ab7219/" height="30" width="40" /></a>
-<a href="https://fb.com/pranjal sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranjal sharma" height="30" width="40" /></a>
-<a href="https://discord.gg/2986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2986" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-sharma-4a3ab7219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-sharma-4a3ab7219/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
