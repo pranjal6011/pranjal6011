@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal23a" alt="pranjal23a" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pranjal sharma" target="blank"><img src="https://img.shields.io/twitter/follow/pranjal-sharma-4a3ab7219?logo=twitter&style=for-the-badge" alt="pranjal sharma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PRANJAL20_27" target="_blank"><img src="https://img.shields.io/twitter/follow/pranjal-sharma-4a3ab7219?logo=twitter&style=for-the-badge" alt="pranjal sharma" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS**
 
