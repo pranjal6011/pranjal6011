@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/PRANJAL20_27" target="_blank"><img src="https://img.shields.io/twitter/follow/pranjal-sharma-4a3ab7219?logo=twitter&style=for-the-badge" alt="pranjal sharma" /></a> </p>
 
+- 🌱 Having Good Command on **DAta Structures And Algorith**
+- 🌱 Having Good Command on **HTML, CSS, Bootstrap, Javascript**
 - 🌱 I’m currently learning **Node JS**
 
 <h3 align="left">Connect with me:</h3>
