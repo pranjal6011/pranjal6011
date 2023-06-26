@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
-<h3 align="center">A Learning frontend developer from India.</h3>
+<h3 align="center">A Learning Backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal23a&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal23a" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranjal sharma" target="blank"><img src="https://img.shields.io/twitter/follow/pranjal-sharma-4a3ab7219?logo=twitter&style=for-the-badge" alt="pranjal sharma" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
