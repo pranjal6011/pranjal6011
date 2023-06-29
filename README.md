@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A Learning Backend developer from India.</h3>
-
+<br>
 
 - 🌱 Having Good Command on **Data Structures And Algorithm**
 - 🌱 Having Good Command on **HTML, CSS, Bootstrap, Javascript**
