@@ -1,3 +1,8 @@
+<style>
+          img{
+                    width: 100px;
+          }
+</style>
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A Learning Backend developer from India.</h3>
 <br>
