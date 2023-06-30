@@ -1,6 +1,6 @@
 <style>
           img{
-                    width: 100px;
+                    width: 100rem;
           }
 </style>
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
