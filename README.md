@@ -4,8 +4,8 @@
 
 - 🌱 Having Good Command on **Data Structures And Algorithm**
 - 🌱 Having Good Command on **HTML, CSS, Bootstrap, Javascript, JQuery**
-- 🌱 Having Good Command on **PHP**
-- 🌱 I’m currently learning **Node JS**
+- 🌱 Having Good Command on **PHP and Node Js**
+- 🌱 I’m currently learning **React JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
