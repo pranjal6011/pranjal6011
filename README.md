@@ -7,7 +7,7 @@
 - 🌱 Having Good Command on **PHP and Node Js**
 - 🌱 Having Good Command on **React JS**
 
-<h3 align="left">Connect with me: connect.psharma01@gmail.com</h3>
+<h3 align="left">Connect with me: pranjal.6011@gmail.com</h3>
 <p align="left">
 <a href="https://twitter.com/PRANJAL20_27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjal sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pranjal6011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-sharma-4a3ab7219/" height="30" width="40" /></a>
